@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 #
 ```python
-class Person:
+class Me:
 
     def __init__(self):
         self.fullName = "Monil Patel"
@@ -20,6 +20,21 @@ class Person:
                         "Going for a run",
                         "ANIME!"
                        ]
+       
+       self.coding_langs = [
+                            "Python",
+                            "Java", 
+                            "HTML",
+                            "CSS
+                        ]
+                        
+       self.tools = [
+                    "PyCharm",
+                    "Jupyter",
+                    "Streamlit",
+                    "Notion",
+                    "Excel"
 
 
 ```
+#
