@@ -13,6 +13,7 @@ class Me:
     def __init__(self):
         self.fullName = "Monil Patel"
         self.uni = "Ontario Tech University"
+        self.ign = "Linom"
         
         self.hobbies = [
                         "Video Games",
@@ -34,6 +35,11 @@ class Me:
                     "Streamlit",
                     "Notion",
                     "Excel"
+    
+    def __repr__(self, visitor):
+        return ("Hello {}!. Welcome to my humble GitHub page.".format(visitor))
+
+
 
 
 ```
