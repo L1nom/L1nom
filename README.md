@@ -20,14 +20,14 @@ class Me:
                         "Reading",
                         "Going for a run",
                         "ANIME!"
-                       ]
+                        ]
        
        self.coding_langs = [
                             "Python",
                             "Java", 
                             "HTML",
                             "CSS"
-                        ]
+                            ]
                         
        self.tools = [
                     "PyCharm",
@@ -35,6 +35,7 @@ class Me:
                     "Streamlit",
                     "Notion",
                     "Excel"
+                    ]
     
     def __repr__(self, visitor):
         return ("Hello {}!. Welcome to my humble GitHub page.".format(visitor))
