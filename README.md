@@ -26,7 +26,7 @@ class Me:
                             "Python",
                             "Java", 
                             "HTML",
-                            "CSS
+                            "CSS"
                         ]
                         
        self.tools = [
