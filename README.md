@@ -47,6 +47,6 @@ class Me:
 
 ## Current Goal
  * Gain knowledge on data analytics and data science techniques => apply to an actual project with data.
-
+ * Create simple machine learning models and gain exposure to different data types and neural networks.
  
 
