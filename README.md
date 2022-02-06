@@ -46,10 +46,4 @@ class Me:
 
 ```
 
-## Current Goal
- * Gain knowledge on Data Analytics and Data Science techniques => apply to an actual project with data.
- * Learn Machine Learning basics, including different learning types, the basic mathematics behind it, and simple models
- * Create simple Machine Learning models and gain exposure to different data types and neural networks.
- * Gather data, preprocess, and apply a Machine Learning model from scratch
- 
 
