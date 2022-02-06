@@ -24,6 +24,7 @@ class Me:
        
        self.coding_langs = [
                             "Python",
+                            "SQL",
                             "Java", 
                             "HTML",
                             "CSS"
