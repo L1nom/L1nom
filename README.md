@@ -25,9 +25,9 @@ class Me:
        self.coding_langs = [
                             "Python",
                             "SQL",
-                            "Java", 
-                            "HTML",
-                            "CSS"
+                            "Data Wrangling", 
+                            "Data Analysis",
+                            "EDA"
                             ]
                         
        self.tools = [
