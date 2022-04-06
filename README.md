@@ -35,7 +35,7 @@ class Me:
                     "Jupyter",
                     "Streamlit",
                     "Notion",
-                    "Excel"
+                    "Google"
                     ]
     
     def __repr__(self, visitor):
