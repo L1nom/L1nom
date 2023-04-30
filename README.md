@@ -13,6 +13,7 @@ class Me:
     def __init__(self):
         self.fullName = "Monil Patel"
         self.uni = "Ontario Tech University"
+        self.program = "Software Engineering"
         self.ign = "Linom"
         
         self.hobbies = [
@@ -22,12 +23,13 @@ class Me:
                         "ANIME!"
                         ]
        
-       self.coding_langs = [
+       self.coding_skills = [
                             "Python",
                             "SQL",
                             "Data Wrangling", 
                             "Data Analysis",
-                            "EDA"
+                            "EDA",
+                            "Machine Learning"
                             ]
                         
        self.tools = [
