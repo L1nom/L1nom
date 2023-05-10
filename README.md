@@ -19,8 +19,7 @@ class Me:
         self.hobbies = [
                         "Video Games",
                         "Reading",
-                        "Going for a run",
-                        "ANIME!"
+                        "Going for a run"
                         ]
        
        self.coding_skills = [
